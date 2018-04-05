@@ -1,0 +1,2 @@
+/tmp/conftest-2ee9a9.o
+-r=/tmp/conftest-2ee9a9.o,main,plx

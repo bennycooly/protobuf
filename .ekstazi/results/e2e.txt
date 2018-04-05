@@ -1,0 +1,18 @@
+# started on Wed Apr  4 22:14:16 2018
+
+
+ Performance counter stats for 'make check -j8':
+
+    1890892.577338      task-clock:u (msec)       #    4.786 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+        17,437,569      page-faults:u             #    0.009 M/sec                  
+                 0      cycles:u                  #    0.000 GHz                      (50.00%)
+                 0      stalled-cycles-frontend:u                                     (50.00%)
+                 0      stalled-cycles-backend:u  #    0.00% backend cycles idle      (50.01%)
+                 0      instructions:u                                                                                   (50.00%)
+                 0      branches:u                #    0.000 K/sec                    (50.00%)
+                 0      branch-misses:u           #    0.00% of all branches          (49.99%)
+
+     395.124862440 seconds time elapsed
+
