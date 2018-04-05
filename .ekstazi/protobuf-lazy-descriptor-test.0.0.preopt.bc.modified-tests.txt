@@ -1,0 +1,3 @@
+google::protobuf::compiler::cpp::cpp.unittest::GeneratedEnumTest
+google::protobuf::compiler::cpp::cpp.unittest::GeneratedMessageTest
+google::protobuf::compiler::cpp::cpp.unittest::DescriptorInitializationTest

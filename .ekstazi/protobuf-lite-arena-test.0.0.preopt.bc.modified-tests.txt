@@ -1,0 +1,2 @@
+google::protobuf::(anonymous namespace)::LiteArenaTest.MapNoHeapAllocation
+google::protobuf::(anonymous namespace)::LiteArenaTest.UnknownFieldMemLeak
